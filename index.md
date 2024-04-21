@@ -7,7 +7,7 @@ lololol
 ## links to my work
 
 [twine](twine.html)
-[bitsy]()
+[bitsy](firstpages.html)
 [p5](clickeden.html)
 [comic???]()
 
