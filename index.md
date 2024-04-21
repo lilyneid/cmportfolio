@@ -6,9 +6,9 @@ lololol
 
 ## links to my work
 
-[twine]()
+[twine](twine.html)
 [bitsy]()
-[ps]()
+[p5](clickeden.html)
 [comic???]()
 
 lolololl
